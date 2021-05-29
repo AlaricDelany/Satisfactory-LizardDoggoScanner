@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "LizardDoggoScanner",
-	"Description": "A Simple Mod which adds a Scanner for Lizard Doggos",
+	"Description": "A Simple Mod which adds a Scanner for Lizard Doggos. Logo by Deantendo#4265",
 	"Category": "Modding",
 	"CreatedBy": "VirCotto",
 	"CreatedByURL": "",
@@ -14,12 +14,13 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"AcceptsAnyRemoteVersion": true,
 	"Plugins": [
-	{
-		"Name": "SML",
-		"SemVersion": "^3.1.0",
-		"Enabled": true
-	}]
+		{
+			"Name": "SML",
+			"SemVersion": "^3.1.0",
+			"Enabled": true
+		}
+	]
 }
